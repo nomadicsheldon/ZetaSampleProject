@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B5042AA1-41AA-4CB0-87E5-6E7584B9C6DB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F179D19-0021-4AEF-9E51-97A560620F94"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZetaAssignment/ApiManager/DashboardApiHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchSearchData(seachKey:callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F179D19-0021-4AEF-9E51-97A560620F94 - 27f021941ae3b36e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ZetaAssignment.DashboardApiHandler.fetchSearchData(seachKey: Swift.String, callback: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ZetaAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshurajput/Desktop/ZetaAssignment/ZetaAssignment/ApiManager/DashboardApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "585">
+               </Location>
+               <Location
+                  uuid = "0F179D19-0021-4AEF-9E51-97A560620F94 - b59efb3410311f89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ZetaAssignment.Result&lt;Any&gt;) -&gt; () in static ZetaAssignment.DashboardApiHandler.fetchSearchData(seachKey: Swift.String, callback: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ZetaAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshurajput/Desktop/ZetaAssignment/ZetaAssignment/ApiManager/DashboardApiHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "155">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C98E8558-F21E-444D-B8F9-BAE7B79A0E1B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZetaAssignment/ApiManager/DashboardApiHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchSearchData(seachKey:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
